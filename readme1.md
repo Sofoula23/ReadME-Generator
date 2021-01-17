@@ -21,7 +21,7 @@ In this homework we are creating a command-line application that dynamically gen
 ​
 ## Installation
 ​
-To install necessary dependencies, run the following command:
+To install the necessary dependencies, run the following command:
 ​
 ```
 npm i
@@ -30,7 +30,7 @@ npm i
 ## Usage
 ​
 
-Use git clone to pull down the repo 
+Use git clone to pull down the repo. 
 ​
 
 ## License
@@ -41,7 +41,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Users cannot contribute to this repo
+Users cannot contribute to this repo.
 
 
 ## Tests
@@ -56,3 +56,12 @@ npm test
 
 
 If you have any questions about the repo, open an issue or contact me directly at sofimantas@gmail.com. You can find more of my work at [Sofoula23](https://github.com/Sofoula23/).
+
+## Link to Github Repo
+
+https://github.com/Sofoula23/ReadME-Generator
+
+## Link to Walkthrough Video
+
+[Watch the Video](https://drive.google.com/file/d/1E7WSnDI7_kLLeOFHlPHBM_U9BxcVdcAu/view)
+

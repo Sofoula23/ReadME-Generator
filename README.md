@@ -9,12 +9,12 @@ In this homework we are creating a command-line application that dynamically gen
 
 * What is your Github username? Sofoula23
 * What is your email address? sofimantas@gmail.com
-* What is the title? readme-generator
-* Please write a short description of your project This project allows the user to generate a readme file for thier application using Node.js
+* What is the title? ReadME Generator
+* Please write a short description of your project This project allows users to generate readme files for their application using Node.js
 * What kind of license should your project have? undefined
 * What command should be run to install dependencies? npm i
-* What does the user need to know about using the repo? use git clone to pull the repo
-* What does the user need to know about contributing to the repo? users cannot contribute to the repo
+* What does the user need to know about using the repo? The users can git clone to pull down the repo
+* What does the user need to know about contributing to the repo? users cannot contribute
 
 ## Helpful Links
 
